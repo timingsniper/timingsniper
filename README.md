@@ -1,9 +1,13 @@
 ### Hi there 👋
-🔭 Current undergrad student at Peking University, Class of 2024
+🔭 Undergrad student at Peking University (北京大学）, Class of 2024
 
-🌱 Majoring in Computer Science, Intelligence Science and Technology
+🌱 Majoring in Computer Science, Intelligence Science and Technology @ School of EECS (信息科学技术学院，智能科学与技术专业）
 
 💬 Currently also a developer of Visual Novel Game <내일도, 맑음>
+
+  ⚡ https://url.kr/wjb7u2 <- Click for game details
+
+😄 Watanabe You da best girl.
 
 So... why are you here?
 
