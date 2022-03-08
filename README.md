@@ -1,4 +1,10 @@
 ### Hi there 👋
+🔭 Current undergrad student at Peking University, Class of 2024
+🌱 Majoring in Computer Science, Intelligence Science and Technology
+💬 Currently also a developer of Visual Novel Game <내일도, 맑음>
+
+So... why are you here?
+
 
 <!--
 **timingsniper/timingsniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
