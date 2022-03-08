@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 Undergrad student at Peking University (北京大学）, Class of 2024
+🔭 Undergrad student at Peking University (北京大学), Class of 2024
 
 🌱 Majoring in Computer Science, Intelligence Science and Technology @ School of EECS (信息科学技术学院，智能科学与技术专业）
 
