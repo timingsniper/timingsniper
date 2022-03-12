@@ -3,7 +3,7 @@
 
 🌱 Majoring in Computer Science, Intelligence Science and Technology @ School of EECS (信息科学技术学院，智能科学与技术专业）
 
-💬 Currently also a developer of Visual Novel Game <내일도, 맑음>
+💬 Currently also a developer of Visual Novel Indie Game <내일도, 맑음>
 
   ⚡ https://url.kr/wjb7u2 <- Click for game details
 
