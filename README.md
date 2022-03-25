@@ -7,7 +7,7 @@
 
   ⚡ https://url.kr/wjb7u2 <- Click for game details
 
-😄 Watanabe You da best girl.
+😄 https://velog.io/@timingsniper <- Visit here for study notes & more
 
 So... why are you here?
 
