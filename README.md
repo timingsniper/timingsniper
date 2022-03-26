@@ -5,9 +5,9 @@
 
 💬 Currently also a developer of Visual Novel Indie Game <내일도, 맑음>
 
-  ⚡ https://url.kr/wjb7u2 <- Click for game details
+  ⚡ https://url.kr/gq2zip <- Click for game details
 
-😄 https://velog.io/@timingsniper <- Visit here for study notes & more
+😄 https://velog.io/@railgunofpku <- Visit here for study notes & more
 
 So... why are you here?
 
