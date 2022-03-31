@@ -14,10 +14,12 @@ So... why are you here?
 <div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/REN'PY-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white">
+<img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">
 <br>
 
 
