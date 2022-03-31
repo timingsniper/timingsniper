@@ -11,6 +11,8 @@
 
 So... why are you here?
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=dark)
+
 
 <!--
 **timingsniper/timingsniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
