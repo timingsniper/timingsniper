@@ -11,8 +11,7 @@
 
 So... why are you here?
 
-
-<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)
 
 
 <div align=center><h3>📚 STACKS</h3></div>
