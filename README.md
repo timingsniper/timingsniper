@@ -13,10 +13,6 @@ So... why are you here?
 
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)
-</div>
-
-
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timingsniper&layout=compact&theme=tokyonight)
 </div>
 
