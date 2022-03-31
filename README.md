@@ -11,9 +11,12 @@
 
 So... why are you here?
 
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-
+<br>
 
 
 
