@@ -19,7 +19,7 @@ So... why are you here?
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/REN'PY-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white">
 <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
 <br>
 
 
