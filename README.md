@@ -11,7 +11,7 @@
 
 So... why are you here?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokoyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timingsniper&layout=compact&theme=tokyonight)
 
 
