@@ -15,7 +15,7 @@ So... why are you here?
 
 <div align=center> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPP&logoColor=white">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/REN'PY-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white">
 <br>
