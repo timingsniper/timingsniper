@@ -11,9 +11,11 @@
 
 So... why are you here?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)
 
-<div align=center><h3>📚 STACKS</h3></div>
+
+<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)
+  
+  <h3>📚 STACKS</h3></div>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
