@@ -1,13 +1,11 @@
 ### wAw heLLo tHeRe 👋
-🔭 🇰🇷Korean Undergrad student at 🇨🇳Peking University (北京大学), Class of 2024
-
-
+🔭 Korean Undergrad student at Peking University (北京大学), Class of 2024
 
 🌱 Majoring in Computer Science, Intelligence Science and Technology @ School of EECS (信息科学技术学院，智能科学与技术专业）
 
 💬 Currently also a developer of Visual Novel Indie Game <내일도, 맑음>
 
-  ⚡ https://url.kr/gq2zip <- Click for game details
+⚡ https://url.kr/gq2zip <- Click for game details
 
 😄 https://velog.io/@railgunofpku <- Visit here for study notes & more
 
