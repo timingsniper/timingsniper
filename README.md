@@ -32,7 +32,7 @@
 
 ## 👨‍💻 Find me at:
 <div>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/percy-joonwoo-jang-7a7249155/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href=https://velog.io/@railgunofpku> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@railgunofpku"> </a>
 <div/>
 <br/>
