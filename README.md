@@ -1,50 +1,43 @@
-### wAw heLLo tHeRe 👋
-🔭 Korean Undergrad student at Peking University (北京大学), Class of 2024
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:457af7,100:48ea71&height=240&text=Hi,%20I'm%20Percy!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 
-🌱 Majoring in Computer Science, Intelligence Science and Technology @ School of EECS (信息科学技术学院，智能科学与技术专业）
 
-😄 https://velog.io/@railgunofpku <- Visit here for study notes & more
+## 👋 Hi there!
 
-So... why are you here?
+🏫 Prospect Graduate at **Peking University (北京大学)**, expected to graduate in July 2024
+
+🌱 Majoring in **Computer Science, Intelligence Science and Technology** @ School of EECS
+
+🔥I mainly write Full Stack Applications with **React.js** and **Node.js/Spring Boot**
+
+🔭 Actively seeking new opportunities as a **Front-End Software Engineer**
+
+## 🛠️ Tech Stacks
+
+### 💻 Main Stacks
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-0E39A9?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+### 💾 Stacks with experience
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+
+## 👨‍💻 Find me at:
+<div>
+<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href=https://velog.io/@railgunofpku> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@railgunofpku"> </a>
+<div/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/timingsniper)](https://leetcode.com/timingsniper)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/timingsniper?ext=activity)](https://leetcode.com/timingsniper)
 
-
-<div align=center><h3>📚 STACKS</h3></div>
-
-<div align=center> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=opengl&logoColor=white">
-<img src="https://img.shields.io/badge/Ren'py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/Starbucks-006241?style=for-the-badge&logo=starbucks&logoColor=white">
-<br>
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timingsniper&layout=compact&theme=tokyonight)
--->
-
-
-
-
-<!--
-**timingsniper/timingsniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
