@@ -4,7 +4,7 @@
 
 ## 👋 Hi there!
 
-🏫 Prospect Graduate at **Peking University (北京大学)**, expected to graduate in July 2024
+🏫 Senior year student at **Peking University (北京大学)**, expected to graduate in **July 2024**
 
 🌱 Majoring in **Computer Science, Intelligence Science and Technology** @ School of EECS
 
