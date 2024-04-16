@@ -38,6 +38,5 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timingsniper&show_icons=true&theme=tokyonight)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/timingsniper?ext=activity)](https://leetcode.com/timingsniper)
 
 </div>
