@@ -10,8 +10,6 @@
 
 🔥I mainly write Full Stack Applications with **React.js** and **Node.js/Spring Boot**
 
-🔭 Actively seeking new opportunities as a **Front-End/Full-Stack Software Engineer**
-
 ## 🛠️ Tech Stacks
 
 ### 💻 Main Stacks
