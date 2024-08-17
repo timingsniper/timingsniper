@@ -4,9 +4,9 @@
 
 ## 👋 Hi there!
 
-🏫 Senior year student at **Peking University (北京大学)**, expected to graduate in **July 2024**
+🏫 Alumni of **Peking University (北京大学)**, Class of 2024
 
-🌱 Majoring in **Computer Science, Intelligence Science and Technology** @ School of EECS
+🌱 Majored in **Computer Science, Intelligence Science and Technology** @ School of EECS
 
 🔥I mainly write Full Stack Applications with **React.js** and **Node.js/Spring Boot**
 
