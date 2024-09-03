@@ -8,7 +8,7 @@
 
 🌱 Majored in **Computer Science, Intelligence Science and Technology** @ School of EECS
 
-🔥I mainly write Full Stack Applications with **React.js** and **Node.js/Spring Boot**
+🔥Software Engineer @ **Xronos Inc. (クロノス株式会社)**
 
 ## 🛠️ Tech Stacks
 
