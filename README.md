@@ -3,12 +3,11 @@
 
 
 ## 👋 Hi there!
+🔥 Software Engineer @ **Xronos Inc. (クロノス株式会社)**
 
 🏫 Alumni of **Peking University (北京大学)**, Class of 2024
 
 🌱 Majored in **Computer Science, Intelligence Science and Technology** @ School of EECS
-
-🔥Software Engineer @ **Xronos Inc. (クロノス株式会社)**
 
 ## 🛠️ Tech Stacks
 
