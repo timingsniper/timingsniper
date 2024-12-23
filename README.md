@@ -1,8 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:457af7,100:48ea71&height=240&text=Hi,%20I'm%20Percy!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-
-
+    
 ## 👋 Hi there!
+
 🔥 Software Engineer @ **Xronos Inc. (クロノス株式会社)**
 
 🏫 Alumni of **Peking University (北京大学)**, Class of 2024
