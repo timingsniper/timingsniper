@@ -3,7 +3,7 @@
 ## 👋 Hi there!
 📌 Born in 🇰🇷, graduated in 🇨🇳, working in 🇯🇵.
 
-🔥 Software Engineer @ **Xronos Inc. (クロノス株式会社)**
+🔥 Software Engineer @ **HCLTech**
 
 🏫 Alumni of **Peking University (北京大学)**, Class of 2024
 
