@@ -3,7 +3,7 @@
 ## 👋 Hi there!
 📌 Born in 🇰🇷, graduated in 🇨🇳, working in 🇯🇵.
 
-🔥 Software Engineer @ **HCLTech**
+🔥 Senior Analyst @ **Accenture Japan**
 
 🏫 Alumni of **Peking University (北京大学)**, Class of 2024
 
